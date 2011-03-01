@@ -5,6 +5,8 @@ It's sole functionality is to substitute a function with another function.
 
 Benefits:
 * Simple
+* No dependencies. One file.
+* No pollusion. Defines an object called Mock (edit the source if you want to change this).
 * No DSL to learn. There's only three functions.
 
 
